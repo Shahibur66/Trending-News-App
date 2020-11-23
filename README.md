@@ -4,8 +4,14 @@ A desktop app which collects news from Google trending news, BBC, CNN, The Guard
 
 Youtube link : https://youtu.be/XYIvXwmD0Ao
 <br>
-<p>[Screenshot]</p>
-<img src="assets/demo1.png" width="70%" height="70%">
+<table align="center">
+    <tr>
+        <td align="center">
+         <p>Font View</p>
+        <img src="assets/demo1.png" alt="font view" width="60%" height="50%"/>   
+        </td>
+    </tr>
+</table>
 
 ## Dependencies:
   * import bs4
